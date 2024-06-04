@@ -16,18 +16,20 @@ This is a simple Todo List application built using HTML, CSS, and JavaScript. Us
 - **Responsive Design:** The application is styled with CSS to ensure it looks good .
 - **Keyboard Shortcuts:** Users can add tasks by pressing the Enter key, making the task management process quicker and more efficient.
 
+## To use the Todo List website:
+
+- Open the index.html file in a web browser or just click https://shantanukh.github.io/Advanced-To-Do-List/ to open website in your web browser.
+- Enter the task name and due date in the provided input fields.
+- Click the "Add" button to add the task to the list or Press Enter on keyboard.
+- To delete a task, click the "Delete" button next to the task.
+- Enjoy managing your tasks effectively!
+
+
 
 ## Screenshot
 
 ![Advanced To-do-List](https://github.com/ShantanuKH/To-Do-List/assets/99231251/2d923a88-4af4-4866-870d-c0b6f83b6d18)
 
-## To use the Todo List website:
-
-- Open the index.html file in a web browser or just copy and paste in your web browser.
-- Enter the task name and due date in the provided input fields.
-- Click the "Add" button to add the task to the list or Press Enter on keyboard.
-- To delete a task, click the "Delete" button next to the task.
-- Enjoy managing your tasks effectively!
 
 ## Author
 
