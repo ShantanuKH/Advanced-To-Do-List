@@ -10,7 +10,7 @@ This is a simple Todo List application built using HTML, CSS, and JavaScript. Us
 
 ## Features
 
-- **Add Tasks:** Users can add tasks to the list by entering a task name and due date. This is facilitated through an input field and a date picker.
+- **Add Tasks:** Users can add tasks to the list by entering a task name and due date. This is implemented using an input field and a date picker.
 - **Delete Tasks:** Users can delete tasks from the list by clicking a delete button next to each task. This allows users to manage their tasks effectively.
 - **Interactive UI:** The application uses JavaScript to provide an interactive experience. Tasks are added and removed dynamically without requiring a page reload.
 - **Responsive Design:** The application is styled with CSS to ensure it looks good .
